@@ -9,5 +9,5 @@ public class SupplyChainManagementApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SupplyChainManagementApplication.class, args);
 	}
-
+	public int Replace();
 }
